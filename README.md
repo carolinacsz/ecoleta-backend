@@ -7,7 +7,7 @@ Project with the objective of creating a connection between companies and / or e
 Running the following commands:
 ```
 # Opening the terminal in the server directory:
-$ cd ./sources/server
+$ cd ./src/server
 
 # Running the application in development mode:
 $ npm run dev
